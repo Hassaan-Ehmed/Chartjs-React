@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Project Info >>
+1. Install 2 Libraries 
+ 1) chart.js
+ 2) react-chartjs-2
+
+the first one is very popular JavaScript Library for Charts and second one is for React means if you use Chart.js in your React Framework so you should be use 2nd library to use chartjs in your react app
+
 ## Available Scripts
 
 In the project directory, you can run:
